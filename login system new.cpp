@@ -152,7 +152,6 @@ int main()
             cout << "Forgotten ? We're here for help for retrieving\n";
             cout << "1.Search your id by username you remember" << endl;
             cout << "2.Search your id by password you remember" << endl;
-            cout << "3.Come to Main menu" << endl;
             cout << "Enter your choice :";
             getline(cin, ch);
             if (ch == "1") {
