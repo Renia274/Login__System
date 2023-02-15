@@ -52,7 +52,7 @@ int main()
         cout << "1.REGISTER" << endl;
         cout << "2.LOGIN" << endl;
         cout << "3.FORGOT PASSWORD (or) USERNAME" << endl;
-        cout << "4. EXIT" << endl;
+       
 
         cout << "\nEnter your choice :";
         string usercommand;
